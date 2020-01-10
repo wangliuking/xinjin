@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="gateway" />
+        <module name="service-connection" />
+        <module name="service-etcr" />
+        <module name="service-lightning" />
+        <module name="service-MQ" />
+        <module name="service-spd" />
+        <module name="service-total" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.10" />
+      <module name="gateway" target="1.10" />
+      <module name="service-connection" target="1.10" />
+      <module name="service-etcr" target="1.10" />
+      <module name="service-lightning" target="1.10" />
+      <module name="service-MQ" target="1.10" />
+      <module name="service-spd" target="1.10" />
+      <module name="service-total" target="1.10" />
+      <module name="xinjin" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-MQ/service-MQ.iml" filepath="$PROJECT_DIR$/service-MQ/service-MQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-connection/service-connection.iml" filepath="$PROJECT_DIR$/service-connection/service-connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-etcr/service-etcr.iml" filepath="$PROJECT_DIR$/service-etcr/service-etcr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-lightning/service-lightning.iml" filepath="$PROJECT_DIR$/service-lightning/service-lightning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-spd/service-spd.iml" filepath="$PROJECT_DIR$/service-spd/service-spd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-total/service-total.iml" filepath="$PROJECT_DIR$/service-total/service-total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinjin.iml" filepath="$PROJECT_DIR$/xinjin.iml" />
+    </modules>
+  </component>
+</project>
